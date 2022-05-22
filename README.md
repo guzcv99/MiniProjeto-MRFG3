@@ -6,9 +6,9 @@
 </h1>
 
 <p align="center">
-<a href="#Sobre">Sobre</a> •
-<a href="#Tecnologia">Tecnologia</a> •
-<a href="#Pre-requisitos">Pré Requisitos</a> •
+<a href="#Sobre">Sobre</a> • 
+<a href="#Tecnologia">Tecnologia</a> • 
+<a href="#Pre-requisitos">Pré Requisitos</a> • 
 <a href="#Autor">Autor</a> 
 
 # Sobre
