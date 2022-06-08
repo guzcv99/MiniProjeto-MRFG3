@@ -12,7 +12,7 @@
 <a href="#Autor">Autor</a> 
 
 # Sobre
-Esse é um projeto com o intuito de extrair os dados atualizados com Web scraping, vizualizar e analisar alguns indicadores técnicos das ações da Marfrig (MRFG3), uma empresa brasileira de alimentos, especializada na produção proteína animal listada na bolsa brasi
+Esse é um projeto com o intuito de extrair os dados atualizados com Web scraping, vizualizar e analisar alguns indicadores técnicos das ações da Marfrig (MRFG3), uma empresa brasileira de alimentos, especializada na produção proteína animal listada na bolsa brasil
 
 ## 🛠️ Tecnologia
 Foi utilizado a seguinte Tecnologia:
